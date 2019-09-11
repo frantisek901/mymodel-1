@@ -10,6 +10,8 @@ to go
   tick
 end
 
+;; Just funny comment -Hovno!
+
 to test
   setup
   if count turtles != 10 [ error (word "There are " count turtles " instead of 5") ]
